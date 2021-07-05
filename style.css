@@ -5,6 +5,7 @@ body{
 h1{
     font-size: 65px;
     line-height: 40px;
+    color: #575757;
 }
 .text-color{
     color: orangered;
@@ -23,12 +24,31 @@ section{
 .half-width{
     width: 50%;
     margin-left: 70px;
+    color: #969292;
 }
-.half-width img{
+.p{
+    margin-bottom: 50px;
+    color: #969292;
+}
+.img{
     width: 90%;
     position: relative;top: -120px;
 }
-.half-width p{
-    margin-bottom: 50px;
-    margin-top: 40px;
+.t-color{
+    color: #6d6d6d;
+    font-size: 40px;
 }
+.margin{
+    margin-bottom: 100px;
+    color: #969292;
+}
+.margin-down{
+    position: relative;top: 85px;
+}
+.background{
+    background-image:url(7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
